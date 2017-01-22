@@ -11,9 +11,9 @@ All the notebooks are written in Python 3
 ### Presentation of the notebooks 
 
 <ul>
-  <li><b>Travail sur la bas Philadelphia :<\b> creation of the time serie we worked on from the data set we got from Kaggle. In this notebook we created variables and grouped everything by month. the outcome is a time serie with 131 month and 29 variables.
-  <li><b>Philadelphia_ajout_sociodemo :<\b> we added variables about employement. Those data are extracted from the <a href="https://www.bls.gov/eag/eag.pa_philadelphia_co.htm">Bureau of Labor Statistics</a>.
-  <li><b>Stat des Philadelphia :<\b> Descriptive statistics on the time serie. 
-  <li><b>Models :<\b> construction and comparaison of the models.
+  <li><b>Travail sur la bas Philadelphia :</b> creation of the time serie we worked on from the data set we got from Kaggle. In this notebook we created variables and grouped everything by month. the outcome is a time serie with 131 month and 29 variables.</li>
+  <li><b>Philadelphia_ajout_sociodemo :</b> we added variables about employement. Those data are extracted from the <a href="https://www.bls.gov/eag/eag.pa_philadelphia_co.htm">Bureau of Labor Statistics</a>.</li>
+  <li><b>Stat des Philadelphia :</b> Descriptive statistics on the time serie. </li>
+  <li><b>Models :</b> construction and comparaison of the models.</li>
 <\ul>
 
