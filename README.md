@@ -1,3 +1,5 @@
+This project was our first school project in machine learning
+
 # Crime-prediction
 
 This a machine learning school projects that aims at predicting the crime rate in Phylladelphia.
